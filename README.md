@@ -1,2 +1,2 @@
 # angular_debugging
-Snippets to Find the Issues in Prodution
+Tricky Snippet code to do track the JS Errors in AngularJS
